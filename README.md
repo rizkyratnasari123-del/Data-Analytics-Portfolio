@@ -1,49 +1,86 @@
-# Data Analytics Portfolio – Rizky Ratna Sari
+# Data Analytics Professional Portfolio
+
+**Rizky Ratna Sari**
+
+Welcome to my professional **Data Analytics Portfolio**, showcasing real-world projects across data cleaning, analysis, visualization, and business insight generation.
+
+---
 
 ## About Me
 
-I am an aspiring Data Analyst with experience in administrative data handling, reporting, and dashboard creation.
-I am passionate about transforming raw data into meaningful business insights using **Excel, Python, Power BI, and Tableau**.
+I am an aspiring **Data Analyst** with experience in:
+
+* Administrative data handling and reporting
+* Data cleaning, transformation, and visualization
+* Business insight generation for decision-making
+
+I am passionate about turning **raw data into meaningful business insights** using modern analytics tools.
 
 ---
 
-## Skills
+## Tools & Technologies
 
-* **Excel:** Power Query, Pivot Table, Dashboard, VBA
-* **Python:** Pandas, Data Cleaning, Visualization
-* **SQL:** Basic Query & Data Extraction
-* **Power BI:** Business Dashboard & KPI Monitoring
-* **Tableau:** Data Visualization & Storytelling
-
----
-
-## Projects
-
-### 1. Excel Dashboard & Automation
-
-Data cleaning, transformation, and interactive dashboard using Excel.
-🔗 **Repository:**
-[https://github.com/rizkyratnasari123-del/Excel-Portfolio](https://github.com/rizkyratnasari123-del/Excel-Portfolio)
-
-### 2. Python Data Analysis *(coming soon)*
-
-Exploratory data analysis, visualization, and insight generation using Python.
-
-### 3. Power BI Business Dashboard *(coming soon)*
-
-Interactive business performance dashboard and KPI monitoring.
-
-### 4. Tableau Visualization *(coming soon)*
-
-Data storytelling and visual analytics dashboard.
+* **Excel** (Power Query, Pivot Table, Dashboard, VBA)
+* **Python** (Pandas, Data Cleaning, Visualization, EDA)
+* **SQL** (Data Cleaning, Window Functions, Data Transformation)
+* **Power BI** (Interactive KPI Dashboard & HR Analytics)
+* **Tableau** (Storytelling Visualization & Profitability Analysis)
+* **Looker Studio** (Customer Behavior & Business Insight Analysis)
 
 ---
 
-##  Contact
+## Portfolio Projects
 
-* **GitHub:** [https://github.com/rizkyratnasari123-del](https://github.com/rizkyratnasari123-del)
-* **LinkedIn:** *(to be added)*
+### Excel Dashboard & Automation
+
+Data cleaning, transformation, and interactive dashboard creation using Excel.
+🔗 [https://github.com/rizkyratnasari123-del/Excel-Portfolio](https://github.com/rizkyratnasari123-del/Excel-Portfolio)
 
 ---
 
-**Status:** Actively building professional data analytics portfolio.
+### Python Data Analysis
+
+Exploratory data analysis and visualization using Python and Jupyter Notebook.
+🔗 [https://github.com/rizkyratnasari123-del/Python-Data-Analysis](https://github.com/rizkyratnasari123-del/Python-Data-Analysis)
+
+---
+
+### SQL Data Cleaning Project
+
+Complete SQL workflow including duplicate removal, missing value handling, and interpolation.
+🔗 [https://github.com/rizkyratnasari123-del/SQL-Data-Analysis](https://github.com/rizkyratnasari123-del/SQL-Data-Analysis)
+
+---
+
+### Power BI – HR Analytics Dashboard
+
+Interactive HR analytics dashboard analyzing attrition, salary, demographics, and workforce trends.
+🔗 [https://github.com/rizkyratnasari123-del/PowerBI-Dashboard](https://github.com/rizkyratnasari123-del/PowerBI-Dashboard)
+
+---
+
+### Tableau – Profitability Story Dashboard
+
+Story-driven visualization analyzing product profitability, trends, and customer segmentation.
+🔗 [https://github.com/rizkyratnasari123-del/Tableau-Visualization](https://github.com/rizkyratnasari123-del/Tableau-Visualization)
+
+---
+
+### Looker Studio – Customer Loyalty & Purchase Behavior
+
+Business analytics dashboard and presentation delivering actionable strategic insights.
+🔗 [https://github.com/rizkyratnasari123-del/LookerStudio-Business-Analysis](https://github.com/rizkyratnasari123-del/LookerStudio-Business-Analysis)
+
+---
+
+## Professional Goal
+
+Seeking an opportunity as a **Data Analyst** where I can:
+
+* Transform data into actionable insights
+* Support business decision-making
+* Continuously grow in analytics and visualization
+
+---
+
+This portfolio represents my **end-to-end data analytics capability**, from raw data processing to executive-level business insight.
